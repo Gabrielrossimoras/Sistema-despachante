@@ -1,4 +1,7 @@
 # Sistema-despachante
+
+Autor: Gabriel Rossi Morás
+
 Modelagem de sistema e banco de dados para controle de documentos de despachante.
 1 - Descrição do sistema
 O sistema tem como objetivo auxiliar o despachante no controle de documentos e processos de veículos, evitando atrasos, perda de prazos e falta de organização das informações. O sistema será utilizado pelo despachante para cadastrar clientes, veículos, origem dos atendimentos, tipos de serviços, documentos necessários, prazos e status de cada processo.
